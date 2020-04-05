@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: a242fa206237ee945ba9e8fe7f7a8611
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Back_Lower_Leg.L
+  - first:
+      1: 100002
+    second: Back_Lower_Leg.R
+  - first:
+      1: 100004
+    second: Back_Lower_Leg_IK.L
+  - first:
+      1: 100006
+    second: Back_Lower_Leg_IK.R
+  - first:
+      1: 100008
+    second: Back_Paw.L
+  - first:
+      1: 100010
+    second: Back_Paw.R
+  - first:
+      1: 100012
+    second: Back_Upper_Leg.L
+  - first:
+      1: 100014
+    second: Back_Upper_Leg.R
+  - first:
+      1: 100016
+    second: //RootNode
+  - first:
+      1: 100018
+    second: Bunny
+  - first:
+      1: 100020
+    second: Bunny Armature
+  - first:
+      1: 100022
+    second: Ear_1.L
+  - first:
+      1: 100024
+    second: Ear_1.R
+  - first:
+      1: 100026
+    second: Ear_2.L
+  - first:
+      1: 100028
+    second: Ear_2.R
+  - first:
+      1: 100030
+    second: Elbow_B.L
+  - first:
+      1: 100032
+    second: Elbow_B.R
+  - first:
+      1: 100034
+    second: Elbow_F.L
+  - first:
+      1: 100036
+    second: Elbow_F.R
+  - first:
+      1: 100038
+    second: Front_Lower_Leg.L
+  - first:
+      1: 100040
+    second: Front_Lower_Leg.R
+  - first:
+      1: 100042
+    second: Front_Lower_Leg_IK.L
+  - first:
+      1: 100044
+    second: Front_Lower_Leg_IK.R
+  - first:
+      1: 100046
+    second: Front_Paw.L
+  - first:
+      1: 100048
+    second: Front_Paw.R
+  - first:
+      1: 100050
+    second: Front_Upper_Leg.L
+  - first:
+      1: 100052
+    second: Front_Upper_Leg.R
+  - first:
+      1: 100054
+    second: Head
+  - first:
+      1: 100056
+    second: Head_Look
+  - first:
+      1: 100058
+    second: Hips
+  - first:
+      1: 100060
+    second: Spine
+  - first:
+      1: 100062
+    second: Tail
+  - first:
+      1: 100064
+    second: Tail_Look
+  - first:
+      4: 400000
+    second: Back_Lower_Leg.L
+  - first:
+      4: 400002
+    second: Back_Lower_Leg.R
+  - first:
+      4: 400004
+    second: Back_Lower_Leg_IK.L
+  - first:
+      4: 400006
+    second: Back_Lower_Leg_IK.R
+  - first:
+      4: 400008
+    second: Back_Paw.L
+  - first:
+      4: 400010
+    second: Back_Paw.R
+  - first:
+      4: 400012
+    second: Back_Upper_Leg.L
+  - first:
+      4: 400014
+    second: Back_Upper_Leg.R
+  - first:
+      4: 400016
+    second: Bunny
+  - first:
+      4: 400018
+    second: //RootNode
+  - first:
+      4: 400020
+    second: Bunny Armature
+  - first:
+      4: 400022
+    second: Ear_1.L
+  - first:
+      4: 400024
+    second: Ear_1.R
+  - first:
+      4: 400026
+    second: Ear_2.L
+  - first:
+      4: 400028
+    second: Ear_2.R
+  - first:
+      4: 400030
+    second: Elbow_B.L
+  - first:
+      4: 400032
+    second: Elbow_B.R
+  - first:
+      4: 400034
+    second: Elbow_F.L
+  - first:
+      4: 400036
+    second: Elbow_F.R
+  - first:
+      4: 400038
+    second: Front_Lower_Leg.L
+  - first:
+      4: 400040
+    second: Front_Lower_Leg.R
+  - first:
+      4: 400042
+    second: Front_Lower_Leg_IK.L
+  - first:
+      4: 400044
+    second: Front_Lower_Leg_IK.R
+  - first:
+      4: 400046
+    second: Front_Paw.L
+  - first:
+      4: 400048
+    second: Front_Paw.R
+  - first:
+      4: 400050
+    second: Front_Upper_Leg.L
+  - first:
+      4: 400052
+    second: Front_Upper_Leg.R
+  - first:
+      4: 400054
+    second: Head
+  - first:
+      4: 400056
+    second: Head_Look
+  - first:
+      4: 400058
+    second: Hips
+  - first:
+      4: 400060
+    second: Spine
+  - first:
+      4: 400062
+    second: Tail
+  - first:
+      4: 400064
+    second: Tail_Look
+  - first:
+      43: 4300000
+    second: Bunny
+  - first:
+      74: 7400000
+    second: Bunny Armature|Basket_Full_JoinedAction
+  - first:
+      74: 7400002
+    second: Bunny Armature|Idle_Hopping_1
+  - first:
+      74: 7400004
+    second: Bunny Armature|Idle_Hopping_2
+  - first:
+      74: 7400006
+    second: Bunny Armature|Idle_Hopping_3
+  - first:
+      74: 7400008
+    second: Bunny Armature|Idle_Sitting
+  - first:
+      74: 7400010
+    second: Bunny Armature|Idle_Sitting_Grooming
+  - first:
+      74: 7400012
+    second: Bunny Armature|Idle_Sitting_No_Ear_Twitch
+  - first:
+      74: 7400014
+    second: Bunny Armature|Knocking_Over
+  - first:
+      74: 7400016
+    second: Bunny|Basket_Full_JoinedAction
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Bunny
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Hopping_1
+      takeName: Bunny Armature|Idle_Hopping_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Hopping_2
+      takeName: Bunny Armature|Idle_Hopping_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Hopping_3
+      takeName: Bunny Armature|Idle_Hopping_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Sitting
+      takeName: Bunny Armature|Idle_Sitting
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Sitting_Grooming
+      takeName: Bunny Armature|Idle_Sitting_Grooming
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Idle_Sitting_No_Ear_Twitch
+      takeName: Bunny Armature|Idle_Sitting_No_Ear_Twitch
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bunny Armature|Knocking_Over
+      takeName: Bunny Armature|Knocking_Over
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.1814346
+        functionName: Flip
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bunny
+        weight: 1
+      - path: Bunny Armature
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Back_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Elbow_B.L
+        weight: 1
+      - path: Bunny Armature/Elbow_B.R
+        weight: 1
+      - path: Bunny Armature/Elbow_F.L
+        weight: 1
+      - path: Bunny Armature/Elbow_F.R
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.L
+        weight: 1
+      - path: Bunny Armature/Front_Lower_Leg_IK.R
+        weight: 1
+      - path: Bunny Armature/Head_Look
+        weight: 1
+      - path: Bunny Armature/Hips
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.L/Back_Lower_Leg.L/Back_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Back_Upper_Leg.R/Back_Lower_Leg.R/Back_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.L/Front_Lower_Leg.L/Front_Paw.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Front_Upper_Leg.R/Front_Lower_Leg.R/Front_Paw.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.L/Ear_2.L
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R
+        weight: 1
+      - path: Bunny Armature/Hips/Spine/Head/Ear_1.R/Ear_2.R
+        weight: 1
+      - path: Bunny Armature/Hips/Tail
+        weight: 1
+      - path: Bunny Armature/Tail_Look
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Upper_Leg.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Upper_Leg.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Lower_Leg.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Lower_Leg.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Paw.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Back_Paw.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Upper_Leg.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Upper_Leg.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Lower_Leg.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Lower_Leg.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Paw.L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ear_1.L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ear_1.R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Front_Paw.R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Bunny(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bunny
+      parentName: 
+      position: {x: 0, y: 0.000000023841856, z: 0.000000023841856}
+      rotation: {x: 0.000000030908627, y: 0.7071069, z: 0.70710677, w: 0.00000003090862}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Bunny Armature
+      parentName: 
+      position: {x: 0, y: 0.000000011920929, z: 0.000000011920929}
+      rotation: {x: 0.000000030908627, y: 0.7071069, z: 0.70710677, w: 0.00000003090862}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: 
+      position: {x: 0.0000000049558153, y: -0.03255979, z: 0.15789229}
+      rotation: {x: -0.000001375832, y: -0.6282565, z: -0.7780063, w: -0.0000010495263}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1.000005}
+    - name: Spine
+      parentName: 
+      position: {x: -2.481329e-10, y: 0.10489371, z: -0.0000000014126016}
+      rotation: {x: -0.17965549, y: -0.0000013441949, z: 0.00000039310163, w: -0.9837296}
+      scale: {x: 1.0000001, y: 0.9999995, z: 0.9999994}
+    - name: Head
+      parentName: 
+      position: {x: -6.839116e-11, y: 0.14287439, z: -0.000000009455625}
+      rotation: {x: -0.017727278, y: -0.0000005721966, z: 0.00000002086774, w: 0.99984294}
+      scale: {x: 1.0000001, y: 1.0000008, z: 0.99999917}
+    - name: Ear_1.L
+      parentName: 
+      position: {x: -0.031942267, y: 0.049356606, z: -0.07943099}
+      rotation: {x: 0.75284934, y: -0.14594737, z: -0.124565, w: -0.62960374}
+      scale: {x: 0.9999999, y: 0.9999992, z: 1.0000005}
+    - name: Ear_2.L
+      parentName: 
+      position: {x: -0.000000007450581, y: 0.064765416, z: 4.656613e-10}
+      rotation: {x: 0.28657162, y: -0.111014, z: -0.023363464, w: 0.9513185}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999986}
+    - name: Ear_1.R
+      parentName: 
+      position: {x: 0.03194196, y: 0.0493566, z: -0.079431154}
+      rotation: {x: 0.7533514, y: 0.14851315, z: 0.12149167, w: -0.62900335}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000007}
+    - name: Ear_2.R
+      parentName: 
+      position: {x: 0.000000010617078, y: 0.064765394, z: -0.00000003874302}
+      rotation: {x: 0.2868375, y: 0.10707004, z: 0.019836167, w: 0.9517704}
+      scale: {x: 1.0000006, y: 1.0000011, z: 0.99999875}
+    - name: Front_Upper_Leg.L
+      parentName: 
+      position: {x: -0.06769441, y: 0.08618652, z: 0.029630074}
+      rotation: {x: 0.62185305, y: -0.6180291, z: 0.33529586, w: 0.34484124}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000004}
+    - name: Front_Lower_Leg.L
+      parentName: 
+      position: {x: 0.000000010058284, y: 0.09669208, z: 0.000000014482066}
+      rotation: {x: -0.028408172, y: -0.42244098, z: 0.019312853, w: 0.90573925}
+      scale: {x: 1.0000021, y: 0.9999959, z: 1.000001}
+    - name: Front_Paw.L
+      parentName: 
+      position: {x: -0.0000000037252903, y: 0.0595325, z: 0.0000000037252903}
+      rotation: {x: -0.4516082, y: 0.5441031, z: 0.45160958, w: 0.54410547}
+      scale: {x: 1.0000042, y: 0.99999803, z: 1.0000031}
+    - name: Front_Upper_Leg.R
+      parentName: 
+      position: {x: 0.06769442, y: 0.086186506, z: 0.029629976}
+      rotation: {x: 0.62215555, y: 0.61834055, z: -0.33473444, w: 0.34428254}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000005}
+    - name: Front_Lower_Leg.R
+      parentName: 
+      position: {x: 0.000000017788262, y: 0.09669206, z: 0.00000000721775}
+      rotation: {x: -0.03374965, y: -0.3425911, z: 0.0064007337, w: 0.9388564}
+      scale: {x: 1.0000012, y: 0.9999958, z: 1.0000024}
+    - name: Front_Paw.R
+      parentName: 
+      position: {x: -0.0000000052154063, y: 0.059532482, z: 0.0000000055879354}
+      rotation: {x: -0.63867146, y: -0.0000017717132, z: 0.0000010305396, w: 0.7694795}
+      scale: {x: 1.0000012, y: 0.9999978, z: 1.000006}
+    - name: Back_Upper_Leg.L
+      parentName: 
+      position: {x: -0.081806734, y: 0.014157158, z: 0.01684427}
+      rotation: {x: -0.9923746, y: 0.039658777, z: -0.11556274, w: 0.016283097}
+      scale: {x: 1.0000018, y: 0.99999905, z: 1.0000004}
+    - name: Back_Lower_Leg.L
+      parentName: 
+      position: {x: -0.000000010430813, y: 0.10494913, z: -0.0000000048428777}
+      rotation: {x: 0.17438865, y: -0.023482619, z: -0.028470377, w: 0.9839851}
+      scale: {x: 0.9999996, y: 0.99999624, z: 1.0000031}
+    - name: Back_Paw.L
+      parentName: 
+      position: {x: 0.0000000037252903, y: 0.052733686, z: -0.000000006705523}
+      rotation: {x: -0.9940303, y: -0.023422314, z: -0.0954471, w: -0.047383144}
+      scale: {x: 1.0000011, y: 0.9999969, z: 1.0000072}
+    - name: Back_Upper_Leg.R
+      parentName: 
+      position: {x: 0.08180683, y: 0.01415716, z: 0.016843716}
+      rotation: {x: -0.9934795, y: -0.039494097, z: 0.10564343, w: 0.016678615}
+      scale: {x: 1.0000011, y: 1.0000004, z: 1.0000001}
+    - name: Back_Lower_Leg.R
+      parentName: 
+      position: {x: -0.0000000059604646, y: 0.104949094, z: -0.0000000052154063}
+      rotation: {x: 0.1740954, y: 0.013648237, z: 0.030211614, w: 0.9841707}
+      scale: {x: 0.9999998, y: 0.9999957, z: 1.0000036}
+    - name: Back_Paw.R
+      parentName: 
+      position: {x: 0.000000008381903, y: 0.052733686, z: 0.000000006705523}
+      rotation: {x: -0.9940307, y: 0.023422007, z: 0.09544262, w: -0.047382973}
+      scale: {x: 1.0000004, y: 0.99999726, z: 1.000008}
+    - name: Tail
+      parentName: 
+      position: {x: -0.000000015975166, y: -0.045214225, z: -0.004060703}
+      rotation: {x: -0.9894366, y: 0.00000027539778, z: 0.0000016591991, w: 0.14496623}
+      scale: {x: 1.0000005, y: 0.9999995, z: 1.0000037}
+    - name: Back_Lower_Leg_IK.L
+      parentName: 
+      position: {x: -0.14896567, y: -0.028750062, z: 0.025269866}
+      rotation: {x: 0.000000084293696, y: -5.0242954e-15, z: 6.363997e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Front_Lower_Leg_IK.L
+      parentName: 
+      position: {x: -0.086389564, y: -0.2594134, z: 0.016960701}
+      rotation: {x: 0.000000084293696, y: -5.0242954e-15, z: 6.363997e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Back_Lower_Leg_IK.R
+      parentName: 
+      position: {x: 0.12716931, y: -0.031880498, z: 0.03714894}
+      rotation: {x: 0.000000084293696, y: -5.0242954e-15, z: 6.363997e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Front_Lower_Leg_IK.R
+      parentName: 
+      position: {x: 0.08326568, y: -0.2594134, z: 0.016960701}
+      rotation: {x: 0.000000084293696, y: -5.0242954e-15, z: 6.363997e-15, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Tail_Look
+      parentName: 
+      position: {x: -0, y: 0.21686065, z: 0.023712194}
+      rotation: {x: 0.7071068, y: 3.045977e-15, z: 3.935542e-15, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Look
+      parentName: 
+      position: {x: -0, y: -0.48274907, z: 0.15943609}
+      rotation: {x: 0.7071068, y: 3.045977e-15, z: 3.935542e-15, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elbow_F.L
+      parentName: 
+      position: {x: -0.07873937, y: -0.13112237, z: 0.06477187}
+      rotation: {x: 0.7071068, y: -0.000000042146826, z: -0.00000004214685, w: 0.7071068}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Elbow_B.L
+      parentName: 
+      position: {x: -0.09637612, y: -0.10515934, z: 0.06477187}
+      rotation: {x: 0.7071068, y: -0.000000042146826, z: -0.00000004214685, w: 0.7071068}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Elbow_F.R
+      parentName: 
+      position: {x: 0.07873937, y: -0.13112238, z: 0.06477187}
+      rotation: {x: 0.7071068, y: -0.000000042146823, z: -0.000000042146855, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elbow_B.R
+      parentName: 
+      position: {x: 0.09660819, y: -0.10178234, z: 0.06477187}
+      rotation: {x: 0.7071068, y: -0.000000042146823, z: -0.000000042146855, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
