@@ -31,6 +31,17 @@ public class UIController : MonoBehaviour
     void Start()
     {
 
+        var req = PlayerPrefs.GetString("IOSREVIEW", "FIRST");
+        if (req == "FIRST")
+        {
+            PlayerPrefs.SetString("IOSREVIEW", "SECOND");            
+        }
+        else if (req == "SECOND")
+        {
+            PlayerPrefs.SetString("IOSREVIEW", "THIRD");
+            Invoke(nameof(ShowReviewReques), 2f);
+        }
+
         var temp = PlayerPrefs.GetString("SOUND", "ON");
         AudioListener.volume = (temp == "ON") ? 1f : 0f;
         soundIcon.sprite = soundSprites[(temp == "ON") ? 0 : 1];
@@ -61,6 +72,11 @@ public class UIController : MonoBehaviour
                     break;
             }                    
         };
+    }
+
+    void ShowReviewReques()
+    {
+        UnityEngine.iOS.Device.RequestStoreReview();
     }
 
     public void OnClickNewEgg()
